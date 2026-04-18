@@ -1,0 +1,7 @@
+{
+  "testUser": {
+    "email": "test.user@example.com",
+    "password": "Password123!"
+  },
+  "revalidationSecret": "your-chosen-secret-for-testing"
+}
